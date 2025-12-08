@@ -11,6 +11,7 @@
   <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/pulls"><img src="https://img.shields.io/github/issues-pr/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Pull Requests Badge"/></a>
   <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/issues"><img src="https://img.shields.io/github/issues/LandscapeGeoinformatics/awesome-discrete-global-grid-systems" alt="Issues Badge"/></a>
   <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348"></a>
+  <a href="https://doi.org/10.5281/zenodo.17850606"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17850606.svg" alt="DOI"></a>
   <a href="https://github.com/LandscapeGeoinformatics/awesome-discrete-global-grid-systems/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/LandscapeGeoinformatics/awesome-discrete-global-grid-systems?color=2b9348" alt="CC0 License Badge"/></a>
 </div>
 <br>
